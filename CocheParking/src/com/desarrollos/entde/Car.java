@@ -39,7 +39,11 @@ public class Car
 //        turnHeadlightsOff();
     }    
 
-    /**
+    private void printGarage() {
+		// TODO Auto-generated method stub
+        System.out.print("|*]");		
+	}
+	/**
      * Accelerate the car
      * @throws InterruptedException 
      */
